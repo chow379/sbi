@@ -4,7 +4,7 @@ class Animal {
 
 // use of extends keyword
 // to perform inheritance
-class Dog extends
+class Dog extends class animal{
 
   // methods and fields of Animal
   // methods and fields of Dog
